@@ -11,9 +11,7 @@ This project analyzes customer demographics and spending behavior for a leading 
 ## Exploratory Data Analysis (EDA) Summary
 ### Customer Demographics - dim_customers
 -	Total Customers: 4,000 customers
--	Average Income: ₹51,657
--	Min: ₹24,816
--	Max: ₹86,600
+-	Average Income: ₹51,657 ; Min: ₹24,816 ;	Max: ₹86,600
 -	Age Groups: 21-24, 25-34, 35-45, 45+
 -	Cities: Mumbai, Delhi NCR, Chennai, Hyderabad, Bengaluru
 - Occupations: Salaried IT Employees, Salaried Other Employees,	Business Owners, Freelancers,	Government Employees
@@ -22,9 +20,7 @@ This project analyzes customer demographics and spending behavior for a leading 
 ### Customer Spend Data - fact_spends
 -	Total Records: 864,000 (6 months × 9 categories × 4,000 customers × 4 payment types)
 -	Total Unique Customers: ✅ 4,000
--	Average Spend per transaction: ₹614.47
--	Min: ₹6
--	Max: ₹10,313
+-	Average Spend per transaction: ₹614.47 ;	Min: ₹6 ;	Max: ₹10,313
 -	Months: May to October (6 months)
 -	Categories (9 total):
 Entertainment, Apparel, Electronics, Food, Groceries, Travel, Bills, Health & Wellness, Others
@@ -32,8 +28,7 @@ Entertainment, Apparel, Electronics, Food, Groceries, Travel, Bills, Health & We
 Credit Card, Debit Card, UPI, Net Banking
 
 ## Key KPIs Tracked:
-- Avg Income
-- Avg Monthly Spend
+- Avg Income, Avg Monthly Spend
 - Credit Card Usage %(Credit card spend ÷ total spend) × 100
 - Income Utilization % {(Total spend ÷ Total income) × 100}
 - Spend Categories
