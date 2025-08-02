@@ -35,3 +35,10 @@ Credit Card, Debit Card, UPI, Net Banking
 - Monthly Spend Trends
 
 ## Customer Demographics
+![p-1](https://github.com/user-attachments/assets/7e8d072e-c510-407c-bf89-dd38086469a4)
+
+Before going to the insights from this page, I would like to note that I have added a new column of 'Income group' in the table, which is as follows:
+- **'Premium'**- Customers with income>58000;  **'Regular'**- Income range 40000 to 58000;  **'Budget'**- Income<40000.
+- "40000" was around the 33rd percentile of the income range for the entire population, and "58000" was around the 60th percentile.
+### Top Insights:
+- 
