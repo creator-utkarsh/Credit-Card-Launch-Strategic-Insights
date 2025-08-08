@@ -38,7 +38,11 @@ Credit Card, Debit Card, UPI, Net Banking
 ![p-1](https://github.com/user-attachments/assets/7e8d072e-c510-407c-bf89-dd38086469a4)
 
 Before going to the insights from this page, I would like to note that I have added a new column of **'Income group'** in the Customers table, which is as follows:
-- **'Premium'**- Customers with income>58000;  **'Regular'**- Income range 40000 to 58000;  **'Budget'**- Income<40000.
+- **'Premium'**- Customers with income > 58000;  **'Regular'**- Income range 40000 to 58000;  **'Budget'**- Income < 40000.
 - **"40000"** was around the **33rd percentile** of the income range for the entire population, and **"58000"** was around the **60th percentile**.
 ### Top Insights:
-- 
+- **25-34 Age group** dominates the customer base with **1498 customers**.(Offers on products for such age group must be increased)
+- **45+ Age group** despite having the **highest average income**(48% more than 21-24 age group), is the lowest in count i.e only **13.5% of the customer base**.(Massive untapped opportunity for premium customer aquisition)
+- **78.4%** of the customers are **Married**.(More focus on offers/points on familiy friendly products like grocery, dinings, travel,etc)
+- **Salaried IT Employees** dominate the customer base(**32%**),and also in the city with highest customers i.e **Mumbai**.
+- Most of the **Business Owners and Salaried IT** people come in the **Premium** income group and earn more than 58000 per month.(Big market for premium cards) Whereas most of the **Govt Employees** come in the **Regular** income group i.e between 40k to 58k.
