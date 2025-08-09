@@ -45,8 +45,14 @@ Before going to the insights from this page, I would like to note that I have ad
 - **45+ Age group** despite having the **highest average income**(48% more than 21-24 age group), is the lowest in count i.e only **13.5% of the customer base**.(Massive untapped opportunity for premium customer aquisition)
 - **78.4%** of the customers are **Married**.(More focus on offers/points on familiy friendly products like grocery, dinings, travel,etc)
 - **Salaried IT Employees** dominate the customer base(**32%**),and also in the city with highest customers i.e **Mumbai**.
-- Most of the **Business Owners and Salaried IT** people come in the **Premium** income group and earn more than 58000 per month.(Big market for premium cards) Whereas most of the **Govt Employees** come in the **Regular** income group i.e between 40k to 58k.
+- Most of the **Business Owners and Salaried IT** people come in the **Premium** income group and earn more than 58000 per month.(Big market for premium cards) Whereas most of the **Govt Employees** come in the **Regular** income group, i.e, between 40k to 58k.
 
-## Spending Behaviour
+## Spending Behaviour 
 ## ![p-2](https://github.com/user-attachments/assets/0b33cd1a-1640-479e-a6a2-69d4bee5f715) 
-
+### Top Insights:
+#### Spend, Income Utilization % and Credit card usage %
+ ![c1](https://github.com/user-attachments/assets/fa895e61-5fab-439c-90ee-ab74839b24d8)    ![c2](https://github.com/user-attachments/assets/ca78d470-4373-4182-9d37-a33cbb30e2b3)
+- Total Spends in 6 months is: 530.9M, Average Monthly Spend is: 22.12K
+- SO, the average **Income Utilization %** comes out to be: **42.82%**
+- ![c3](https://github.com/user-attachments/assets/4e423df4-bae5-4f50-88d9-6751fb67d4d3)
+- **Credit card usage %** is the amount spent through credit card vs the total amount spent, which on average comes out to be: **40.74%**, indicating a great acceptance of credit cards. (Marketing expenses will be less, and adoption will be easy)
