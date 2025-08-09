@@ -35,7 +35,7 @@ Credit Card, Debit Card, UPI, Net Banking
 - Monthly Spend Trends
 
 ## Customer Demographics
-![p-1](https://github.com/user-attachments/assets/7e8d072e-c510-407c-bf89-dd38086469a4)
+## ![p-1](https://github.com/user-attachments/assets/7e8d072e-c510-407c-bf89-dd38086469a4)
 
 Before going to the insights from this page, I would like to note that I have added a new column of **'Income group'** in the Customers table, which is as follows:
 - **'Premium'**- Customers with income > 58000;  **'Regular'**- Income range 40000 to 58000;  **'Budget'**- Income < 40000.
@@ -46,3 +46,7 @@ Before going to the insights from this page, I would like to note that I have ad
 - **78.4%** of the customers are **Married**.(More focus on offers/points on familiy friendly products like grocery, dinings, travel,etc)
 - **Salaried IT Employees** dominate the customer base(**32%**),and also in the city with highest customers i.e **Mumbai**.
 - Most of the **Business Owners and Salaried IT** people come in the **Premium** income group and earn more than 58000 per month.(Big market for premium cards) Whereas most of the **Govt Employees** come in the **Regular** income group i.e between 40k to 58k.
+
+## Spending Behaviour
+## ![p-2](https://github.com/user-attachments/assets/0b33cd1a-1640-479e-a6a2-69d4bee5f715) 
+
