@@ -46,7 +46,7 @@ Before going to the insights from this page, I would like to note that I have ad
 - **78.4%** of the customers are **Married**.(More focus on offers/points on familiy friendly products like grocery, dinings, travel,etc)
 - **Salaried IT Employees** dominate the customer base(**32%**),and also in the city with highest customers i.e **Mumbai**.
 - Most of the **Business Owners and Salaried IT** people come in the **Premium** income group and earn more than 58000 per month.(Big market for premium cards) Whereas most of the **Govt Employees** come in the **Regular** income group, i.e, between 40k to 58k.
-
+- **Hyderabad** has the lowest count of customers, i.e., **593 only**. (Emerging Market, so more marketing campaign is needed here)
 ## Spending Behaviour 
 ## ![p-2](https://github.com/user-attachments/assets/0b33cd1a-1640-479e-a6a2-69d4bee5f715) 
 ### Top Insights:
@@ -56,3 +56,18 @@ Before going to the insights from this page, I would like to note that I have ad
 - SO, the average **Income Utilization %** comes out to be: **42.82%**
 - ![c3](https://github.com/user-attachments/assets/4e423df4-bae5-4f50-88d9-6751fb67d4d3)
 - **Credit card usage %** is the amount spent through credit card vs the total amount spent, which on average comes out to be: **40.74%**, indicating a great acceptance of credit cards. (Marketing expenses will be less, and adoption will be easy)
+#### By Age Group:
+ ![c4](https://github.com/user-attachments/assets/05437f08-5901-4a24-96fb-a305fa0d19ae)
+- Age group **35-45** is the highest spender, with the **income utilization % as 46.72%** and a decent credit card usage of 38.78%.
+- Age group **25-34** has the highest **credit card usage of 46.62%** and the second-highest income utilization of 43.66%.
+- Age group **45+** is the highest earners of all, but also a frugal & wise spender with **income utilization of 34.7%** and also low credit card usage of only 35.73%.
+#### By Occupation:
+ ![c6](https://github.com/user-attachments/assets/91521906-7b1f-49a3-8631-af057c9a98b6) 
+- **Salaried IT employees** lead in spending, with **income utilization of 51.04%** and the 2nd highest avg income of about 61k.
+- **Business owners**, despite having the **highest avg income of 70k**, spend frugally with **income utilization of 33.22%**.
+- **Government Employees** are the lowest spenders with **income utilization of 29%**. (Maybe because they get many things free and subsidised from the govt itself.)
+- **Freelancers**, despite having low income, have the 2nd highest **income utilization of 45.8%**. (Because most of their income gets spent on basic necessities.)
+#### By City:
+ ![c5](https://github.com/user-attachments/assets/5589f699-4a21-45f8-b583-547e86e2086b)
+- **Mumbai** has the highest income utilization of **51.43%** whereas **Chennai** has the lowest at **31.1%**.
+- All cities have similar credit card usage %.
