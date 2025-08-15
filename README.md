@@ -98,5 +98,18 @@ Before going to the insights from this page, I would like to note that I have ad
 - "Prime Minimalists" - income> 58000 ; spend < 30000
 - "Emerging" - income between 40000 and 58000 ; spend < 30000
 - "Risky" - income < 40000 ; income utilization > 50%
-- "Others" - income < 40000 ; income utilization < 50%
+- "Others"
 ### Top Insights:
+#### Customer segments:
+- The 'Emerging' segment is highest in numbers (28.2%), followed by 'Prime Minimalists' (21.5%).
+- There are 9.8% 'Risky' customers also, who should be kept in watch.
+#### By City and Age group:
+ ![c2](https://github.com/user-attachments/assets/7d9c0dd2-ec43-467f-baaf-81abcdb9a3e6)  ![c1](https://github.com/user-attachments/assets/253e3de1-2d88-45f5-abaa-662af15d2be6)
+- **Mumbai** has the highest count of **'High value' customers (327)** as well as **'Emerging' customers (310)**, followed by Delhi-NCR with 216 'High value' customers and 3rd highest count of 'Emerging' customers (199).
+- Chennai and Hyderabad don't have any 'Risky' customers. (Nice)
+- **Chennai** has the highest count of **'Prime Minimalists'** customers (332), followed by Hyderabad at 189.
+- Mumbai and Delhi-NCR are highest spenders whereas Chennai and Hyderabad are least spenders.
+- Age group **25-34** has the highest no. of **'Prime Minimalists' (376)** and **35-45** age group has highest count of **'High Value' customers(352)**.
+- Age group **21-24** has the highest count of **'Emerging' customers(385)**, but doesn't has any high income customers.
+- Age group **45+** mostly consists of **'Prime Minimalists'(245)**, followed by **'Emerging'(156)**.
+#### 
