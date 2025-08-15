@@ -112,4 +112,9 @@ Before going to the insights from this page, I would like to note that I have ad
 - Age group **25-34** has the highest no. of **'Prime Minimalists' (376)** and **35-45** age group has highest count of **'High Value' customers(352)**.
 - Age group **21-24** has the highest count of **'Emerging' customers(385)**, but doesn't has any high income customers.
 - Age group **45+** mostly consists of **'Prime Minimalists'(245)**, followed by **'Emerging'(156)**.
-#### 
+#### By Gender, Marital Status and Occupation:
+ ![c4](https://github.com/user-attachments/assets/34d8f202-13f0-4df8-88b5-5da537f93c2f)  ![c7](https://github.com/user-attachments/assets/91f5fab0-6a5b-4328-9f72-5ab9fc06fa79)
+  ![c3](https://github.com/user-attachments/assets/08e4cb05-e086-4ca0-a1be-e2d26f36662d)
+- In both Male and Female gender, the **'Emerging'** customers are highest, followed by 'Prime Minimalists'.
+- Married people are mostly 'Emerging' customers(790), followed by 'Prime Minimalists'(777) and 'High Value'(661), while Singles are mostly 'Emerging'(338).
+- 
