@@ -63,10 +63,10 @@ Before going to the insights from this page, I would like to note that I have ad
 - Age group **45+** is the highest earners of all, but also a frugal & wise spender with **income utilization of 34.7%** and also low credit card usage of only 35.73%.
 #### By Occupation:
  ![c6](https://github.com/user-attachments/assets/91521906-7b1f-49a3-8631-af057c9a98b6) 
-- **Salaried IT employees** lead in spending, with **income utilization of 51.04%** and the 2nd highest avg income of about 61k.
-- **Business owners**, despite having the **highest avg income of 70k**, spend frugally with **income utilization of 33.22%**.
-- **Government Employees** are the lowest spenders with **income utilization of 29%**. (Maybe because they get many things free and subsidised from the govt itself.)
-- **Freelancers**, despite having low income, have the 2nd highest **income utilization of 45.8%**. (Because most of their income gets spent on necessities.)
+- **Salaried IT employees** lead in spending, with **income utilization of 51.04%** and the 2nd highest avg income of about 61k.(High Income || Premium segment)
+- **Business owners**, despite having the **highest avg income of 70k**, spend frugally with **income utilization of 33.22%**.(High Income || Premium segment)
+- **Government Employees** are the lowest spenders with **income utilization of 29%**. (Stable Income || Maybe because they get many things free and subsidised from the govt itself.)
+- **Freelancers**, despite having low income, have the 2nd highest **income utilization of 45.8%**. (Unstable Income || Because most of their income gets spent on necessities.)
 #### By City:
  ![c5](https://github.com/user-attachments/assets/5589f699-4a21-45f8-b583-547e86e2086b)
 - **Mumbai** has the highest income utilization of **51.43%** whereas **Chennai** has the lowest at **31.1%**.
@@ -79,6 +79,13 @@ Before going to the insights from this page, I would like to note that I have ad
   ![c7](https://github.com/user-attachments/assets/5b841ae0-5d2d-47b5-9b28-91710fef1b29)
 - **'Bills'** has the highest spending of **105M**, followed by **'Groceries'(86M)** and **'Electronics'(80M)**.
 - Payment for 'Groceries' is less from Credit card(27M) and highest from UPI(29M). (Because most of the vendors don't have card payment machines and deal in cash or UPI only)
-- Age group 21-24 has some different spending choices:
+- **Age group 21-24** has some different spending choices:
 - ![c11](https://github.com/user-attachments/assets/ae944126-52b5-4e28-bf0e-8151f4f7e7c9)
 - They spend the highest on 'Entertainment' (15.1M), followed by 'Electronics' (11.4M) and 'Apparel' (11.1M).
+#### By Monthly Trend:
+ ![c8](https://github.com/user-attachments/assets/c01d384e-3a79-4752-9039-1320845bfd71)
+- **August and September** are the highest spending months, totalling 217M, constituting **40.8%** of the total spend, with September being the highest one at 116M.
+- This is because of the festive season during those months. ( More focus on offers, discounts and collaborated promotions must be there during these time)
+#### Spending behaviour by Income:
+ ![c12](https://github.com/user-attachments/assets/f5cb32ad-e932-48be-b0a4-c356bc6bce28)
+- 
