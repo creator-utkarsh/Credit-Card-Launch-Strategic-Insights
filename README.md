@@ -66,8 +66,19 @@ Before going to the insights from this page, I would like to note that I have ad
 - **Salaried IT employees** lead in spending, with **income utilization of 51.04%** and the 2nd highest avg income of about 61k.
 - **Business owners**, despite having the **highest avg income of 70k**, spend frugally with **income utilization of 33.22%**.
 - **Government Employees** are the lowest spenders with **income utilization of 29%**. (Maybe because they get many things free and subsidised from the govt itself.)
-- **Freelancers**, despite having low income, have the 2nd highest **income utilization of 45.8%**. (Because most of their income gets spent on basic necessities.)
+- **Freelancers**, despite having low income, have the 2nd highest **income utilization of 45.8%**. (Because most of their income gets spent on necessities.)
 #### By City:
  ![c5](https://github.com/user-attachments/assets/5589f699-4a21-45f8-b583-547e86e2086b)
 - **Mumbai** has the highest income utilization of **51.43%** whereas **Chennai** has the lowest at **31.1%**.
 - All cities have similar credit card usage %.
+#### By Payment Type and Marital Status:
+ ![c9](https://github.com/user-attachments/assets/7fe099bf-e058-4f80-98ae-957817648eca)  ![c10](https://github.com/user-attachments/assets/d76b187b-1f05-4808-b052-ef52e4b7e7c1)
+- Credit cards already dominate spending, totalling 216M, followed by UPI (141M).
+- Married people are the highest spenders, totalling 429M, with 80.8% of the total spend. (focus on more family-friendly offers should be given)
+#### By Categories:
+  ![c7](https://github.com/user-attachments/assets/5b841ae0-5d2d-47b5-9b28-91710fef1b29)
+- **'Bills'** has the highest spending of **105M**, followed by **'Groceries'(86M)** and **'Electronics'(80M)**.
+- Payment for 'Groceries' is less from Credit card(27M) and highest from UPI(29M). (Because most of the vendors don't have card payment machines and deal in cash or UPI only)
+- Age group 21-24 has some different spending choices:
+- ![c11](https://github.com/user-attachments/assets/ae944126-52b5-4e28-bf0e-8151f4f7e7c9)
+- They spend the highest on 'Entertainment' (15.1M), followed by 'Electronics' (11.4M) and 'Apparel' (11.1M).
