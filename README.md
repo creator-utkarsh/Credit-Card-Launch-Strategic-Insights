@@ -69,8 +69,8 @@ Before going to the insights from this page, I would like to note that I have ad
 - **Freelancers**, despite having low income, have the 2nd highest **income utilization of 45.8%**. (Unstable Income || Because most of their income gets spent on necessities.)
 #### By City:
  ![c5](https://github.com/user-attachments/assets/5589f699-4a21-45f8-b583-547e86e2086b)
-- **Mumbai** has the highest income utilization of **51.43%** whereas **Chennai** has the lowest at **31.1%**.
-- All cities have similar credit card usage %.
+- **Mumbai** has the highest income utilization of **51.43%**. (Business hub || High concentration of Business owners and IT Professionals)
+- **Chennai** has the lowest income utilization of **31.1%**.
 #### By Payment Type and Marital Status:
  ![c9](https://github.com/user-attachments/assets/7fe099bf-e058-4f80-98ae-957817648eca)  ![c10](https://github.com/user-attachments/assets/d76b187b-1f05-4808-b052-ef52e4b7e7c1)
 - Credit cards already dominate spending, totalling 216M, followed by UPI (141M).
@@ -88,4 +88,15 @@ Before going to the insights from this page, I would like to note that I have ad
 - This is because of the festive season during those months. ( More focus on offers, discounts and collaborated promotions must be there during these time)
 #### Spending behaviour by Income:
  ![c12](https://github.com/user-attachments/assets/f5cb32ad-e932-48be-b0a4-c356bc6bce28)
-- 
+- Here as per the scatter plot for spend vs income, i took 30k on spend line as a differentiating point because it was almost 50% of the high income group's average monthly income. And for the income side, the three different income groups from earlier was taken in consideration.
+- This revealed 5 very important customer segments based on high value, hidden value, emerging and risky customers for which the details are in next slide.
+
+## Customer Segmentation
+##  ![p-3](https://github.com/user-attachments/assets/8f55a262-0274-463c-935d-657ce7554ab2) 
+ Here customers were divided into 5 major segments based on their spend vs income:
+- "High Value" - income> 58000 ; spend > 30000
+- "Prime Minimalists" - income> 58000 ; spend < 30000
+- "Emerging" - income between 40000 and 58000 ; spend < 30000
+- "Risky" - income < 40000 ; income utilization > 50%
+- "Others" - income < 40000 ; income utilization < 50%
+### Top Insights:
