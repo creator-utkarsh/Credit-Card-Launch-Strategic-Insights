@@ -1,4 +1,4 @@
-# Credit Card Strategy & Customer Segmentation
+# Credit Card Launch Strategy & Customer Segmentation
 
 ## Summary
 This project analyzes customer demographics and spending behavior for a leading retail bank. The aim is to support the launch of a new line of credit cards. Using customer and transaction data, I identified distinct customer segments and usage patterns. The insights revealed high-potential groups and suggested targeted strategies to boost adoption and engagement. The project emphasizes a data-driven, customer-centric approach to product design and marketing.
@@ -84,7 +84,7 @@ Before going to the insights from this page, I would like to note that I have ad
 #### By Payment Type and Marital Status:
  ![c9](https://github.com/user-attachments/assets/7fe099bf-e058-4f80-98ae-957817648eca)  ![c10](https://github.com/user-attachments/assets/d76b187b-1f05-4808-b052-ef52e4b7e7c1)
 - Credit cards already dominate spending, totalling 216M, followed by UPI (141M).
-- Married people are the highest spenders, totalling 429M, with 80.8% of the total spend. (focus on more family-friendly offers should be given)
+- Married people are the highest spenders, totalling 429M, with 80.8% of the total spend. (Focus on more family-friendly offers should be given)
 
 #### By Categories:
   ![c7](https://github.com/user-attachments/assets/5b841ae0-5d2d-47b5-9b28-91710fef1b29)
@@ -97,16 +97,16 @@ Before going to the insights from this page, I would like to note that I have ad
 #### By Monthly Trend:
  ![c8](https://github.com/user-attachments/assets/c01d384e-3a79-4752-9039-1320845bfd71)
 - **August and September** are the highest spending months, totalling 217M, constituting **40.8%** of the total spend, with September being the highest one at 116M.
-- This is because of the festive season during those months. ( More focus on offers, discounts and collaborated promotions must be there during these time)
+- This is because of the festive season during those months. ( More focus on offers, discounts, and collaborative promotions must be there during these times)
 
 #### Spending behaviour by Income:
  ![c12](https://github.com/user-attachments/assets/f5cb32ad-e932-48be-b0a4-c356bc6bce28)
-- Here as per the scatter plot for spend vs income, i took 30k on spend line as a differentiating point because it was almost 50% of the high income group's average monthly income. And for the income side, the three different income groups from earlier was taken in consideration.
-- This revealed 5 very important customer segments based on high value, hidden value, emerging and risky customers for which the details are in next slide.
+- Here, as per the scatter plot for spend vs income, I took 30k on the spend line as a differentiating point because it was almost 50% of the high-income group's average monthly income. And for the income side, the three different income groups from earlier were taken into consideration.
+- This revealed 5 very important customer segments based on high value, hidden value, emerging, and risky customers, for which the details are in the next slide.
 
 ## Customer Segmentation
 ##  ![p-3](https://github.com/user-attachments/assets/8f55a262-0274-463c-935d-657ce7554ab2) 
- Here customers were divided into 5 major segments based on their spend vs income:
+ Here, customers were divided into 5 major segments based on their spend vs income:
 - "High Value" - income> 58000 ; spend > 30000
 - "Prime Minimalists" - income> 58000 ; spend < 30000
 - "Emerging" - income between 40000 and 58000 ; spend < 30000
@@ -116,32 +116,41 @@ Before going to the insights from this page, I would like to note that I have ad
 ### Top Insights:
 #### Customer segments:
 - The 'Emerging' segment is highest in numbers (28.2%), followed by 'Prime Minimalists' (21.5%).
-- There are 9.8% 'Risky' customers also, who should be kept in watch.
+- There are 9.8% 'Risky' customers also, who should be kept under watch.
 
 #### By City and Age group:
  ![c2](https://github.com/user-attachments/assets/7d9c0dd2-ec43-467f-baaf-81abcdb9a3e6)  ![c1](https://github.com/user-attachments/assets/253e3de1-2d88-45f5-abaa-662af15d2be6)
 - **Mumbai** has the highest count of **'High value' customers (327)** as well as **'Emerging' customers (310)**, followed by Delhi-NCR with 216 'High value' customers and 3rd highest count of 'Emerging' customers (199).
 - Chennai and Hyderabad don't have any 'Risky' customers. (Nice)
 - **Chennai** has the highest count of **'Prime Minimalists'** customers (332), followed by Hyderabad at 189.
-- Mumbai and Delhi-NCR are highest spenders whereas Chennai and Hyderabad are least spenders.
+- Mumbai and Delhi-NCR are the highest spenders, whereas Chennai and Hyderabad are the least spenders.
 - Age group **25-34** has the highest no. of **'Prime Minimalists' (376)** and **35-45** age group has highest count of **'High Value' customers(352)**.
 - Age group **21-24** has the highest count of **'Emerging' customers(385)**, but doesn't has any high income customers.
 - Age group **45+** mostly consists of **'Prime Minimalists'(245)**, followed by **'Emerging'(156)**.
 
-#### By Gender, Marital Status, Occupation and Payment Type:
+#### By Gender, Marital Status, Occupation, and Payment Type:
  ![c4](https://github.com/user-attachments/assets/34d8f202-13f0-4df8-88b5-5da537f93c2f)  ![c7](https://github.com/user-attachments/assets/91f5fab0-6a5b-4328-9f72-5ab9fc06fa79)
   ![c3](https://github.com/user-attachments/assets/08e4cb05-e086-4ca0-a1be-e2d26f36662d)   ![c5](https://github.com/user-attachments/assets/e7004995-fa28-45ad-ad1a-94a38adaa1c6)
-- In both Male and Female gender, the **'Emerging'** customers are highest, followed by 'Prime Minimalists'.
+- In both Male and Female genders, the **'Emerging'** customers are highest, followed by 'Prime Minimalists'.
 - Married people are mostly 'Emerging' customers(790), followed by 'Prime Minimalists'(777) and 'High Value'(661), while Singles are mostly 'Emerging'(338).
-- IT Employees contain highest count of 'High value' customers(670), followed by only 85 Business Owners.
-- Business owners contains the highest count of 'Prime Minimalists' customers(456), followed by 358 in IT Employees and only 46 Govt Employees.
-- Other salaried employees and freelancers don't have any high income customers, and Freelancers are the most 'Risky' customers(285).
+- IT Employees contain the highest count of 'High value' customers(670), followed by only 85 Business Owners.
+- Business owners contain the highest count of 'Prime Minimalists' customers(456), followed by 358 in IT Employees, and only 46 Govt Employees.
+- Other salaried employees and freelancers don't have any high-income customers, and Freelancers are the most 'Risky' customers(285).
 - All of the segments use credit cards the most, followed by UPI.
 
 #### By Categories:
   ![c6](https://github.com/user-attachments/assets/d91537c8-98e6-44aa-b0c5-4a48445c5d5b)
-- 'High Value' customers are highest spenders across all categories except Entertainment and Apparel where 'Emerging' customers dominate.
-- In both Electronics and Food, the high income 'Prime Minimalists' customers are spending less than the 'Emerging' customers which are in middle income range.
+- 'High Value' customers are the highest spenders across all categories except Entertainment and Apparel, where 'Emerging' customers dominate.
+- In both Electronics and Food, the high-income 'Prime Minimalists' customers are spending less than the 'Emerging' customers who are in the middle-income range.
+
+## Target Customer Segments
+As per the analysis above, the 3 top target segments were identified for the new card launch:
+#### 'High Value' 
+- Ideal for Platinum/premium cards with exciting offers across all categories
+#### 'Prime Minimalists' 
+- Ideal for Premium cards with zero 1st time or annual fee, including offers like investment services and retirement planning, etc.
+#### 'Emerging'
+- Ideal for cashback cards with offers on Entertainment, Apparel, and others.
 
 ## Recommendations
 - 
