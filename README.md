@@ -143,16 +143,15 @@ Before going to the insights from this page, I would like to note that I have ad
 - 'High Value' customers are the highest spenders across all categories except Entertainment and Apparel, where 'Emerging' customers dominate.
 - In both Electronics and Food, the high-income 'Prime Minimalists' customers are spending less than the 'Emerging' customers who are in the middle-income range.
 
-## Target Customer Segments
+## Strategic Recommendations
+### Target Customer Segments
 As per the analysis above, the 3 top target segments were identified for the new card launch:
 #### 'High Value' 
-- Ideal for Platinum/premium cards with exciting offers across all categories
+- Ideal for Platinum/premium cards with exciting offers across all categories and premium banking services.
 #### 'Prime Minimalists' 
 - Ideal for Premium cards with zero 1st time or annual fee, including offers like investment services and retirement planning, etc.
 #### 'Emerging'
 - Ideal for cashback cards with offers on Entertainment, Apparel, and others.
-
-## Recommendations
-- For Risky customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself.
+- For **Risky** customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself.
 - 
 
