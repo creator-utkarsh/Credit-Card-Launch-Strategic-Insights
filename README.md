@@ -153,4 +153,6 @@ As per the analysis above, the 3 top target segments were identified for the new
 - Ideal for cashback cards with offers on Entertainment, Apparel, and others.
 
 ## Recommendations
+- For Risky customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself.
 - 
+
