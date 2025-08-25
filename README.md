@@ -1,7 +1,7 @@
-# Credit Card Launch Strategy & Customer Segmentation
+# Strategic Insights for Credit Card Launch & Customer Segmentation
 
 ## Summary
-This project analyzes customer demographics and spending behavior for a leading retail bank. The aim is to support the launch of a new line of credit cards. Using customer and transaction data, I identified distinct customer segments and usage patterns. The insights revealed high-potential groups and suggested targeted strategies to boost adoption and engagement. The project emphasizes a data-driven, customer-centric approach to product design and marketing.
+This project analyzes customer demographics and spending behavior for a leading retail bank. The aim is to support the launch of a new line of credit cards. Using customer and transaction data, I identified distinct customer segments and usage patterns. The insights revealed high-potential groups and can be used for targeted strategies to boost adoption and engagement. The project emphasizes a data-driven, customer-centric approach to product design and marketing.
 
 ## Business Objectives
 - Understand spending behaviour and credit card usage trends by demographic groups
@@ -32,7 +32,7 @@ Credit Card, Debit Card, UPI, Net Banking
 
 ## Key KPIs Tracked:
 - Avg Income, Avg Monthly Spend
-- Credit Card Usage %(Credit card spend ÷ total spend) × 100
+- Credit Card Usage % {(Credit card spend ÷ total spend) × 100}
 - Income Utilization % {(Total spend ÷ Total income) × 100}
 - Spend Categories
 - Monthly Spend Trends
@@ -144,6 +144,7 @@ Before going to the insights from this page, I would like to note that I have ad
 - In both Electronics and Food, the high-income 'Prime Minimalists' customers are spending less than the 'Emerging' customers who are in the middle-income range.
 
 ## Strategic Recommendations
+- 
 ### Target Customer Segments
 As per the analysis above, the 3 top target segments were identified for the new card launch:
 #### 'High Value' 
