@@ -152,15 +152,22 @@ As per the findings from above, the top 3 target segments were identified for th
 - Mainly concentrated in **Mumbai and Delhi-NCR**. (More marketing focus in these cities) And only 2 occupations, **IT Employees** and **Business Owners**, come under this category.
 - For business owners, they must be given interest-free extra time for repayment, and Airport lounge access.
 - IT Professionals should be given exclusive offers on tech purchases, software subscriptions, online services, up-skilling courses, and travel-related offers.
-- Cashbacks on Utility Bills, Groceries, Electronics.
+- Cashbacks on Utility Bills, Groceries, Electronics, Health & Wellness, and Travel bookings.
 
 #### "Prime Minimalists"
 - Ideal for **Premium cards** with zero annual fee, including offers like investment services and retirement planning, etc.
 - 25-34 and 45+ age groups are the primary target, followed by the 35-45 age group. As in the 45+ age group, this segment is the majority, so we should focus more on acquiring more 45+ customers.
 - More marketing focus in Chennai(the highest count of this segment), followed by Hyderabad. The majority of those are Business owners and IT Employees, and a little bit of Government employees.
-- Cashbacks on Mutual funds or SIPs, Groceries, Health & wellness centres and devices. 
-#### 'Emerging'
-- Ideal for **Cashback cards** with offers on Entertainment, Apparel, and others.
-- For **Risky** customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself. For **"Other"** categories, they are not currently in focus for new cards, but they should be monitored for future actions.
-- 
+- Cashbacks on investments like Mutual funds or SIPs, Groceries, Health & wellness centres and devices.
+- Special Credit card digital coaching to lessen fear and promote proper use of cards and shift their debit card usage to credit cards. 
 
+#### 'Emerging'
+- Ideal for **Cashback cards** with special offers and cashbacks on Entertainment, Apparel, and others.
+- 21-24 and 35-45 age groups are the primary target customers.
+- Equal marketing focus across all locations as they are spread everywhere, with the highest in Mumbai.
+- Other salaried employees and Government Employees are our main target, so focus offers tailored to them.
+- Special retirement planning services for salaried employees, and cashbacks on investments.
+
+- ##### For **Risky** customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself. For **"Other"** categories, they are not currently in focus for new cards, but they should be monitored for future actions.
+#### Other General Recommendations
+- 
