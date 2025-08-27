@@ -144,15 +144,15 @@ Before going to the insights from this page, I would like to note that I have ad
 - In both Electronics and Food, the high-income 'Prime Minimalists' customers are spending less than the 'Emerging' customers who are in the middle-income range.
 
 ## Strategic Recommendations
-- 
-### Target Customer Segments
-As per the analysis above, the 3 top target segments were identified for the new card launch:
-#### 'High Value' 
-- Ideal for Platinum/premium cards with exciting offers across all categories and premium banking services.
-#### 'Prime Minimalists' 
-- Ideal for Premium cards with zero 1st time or annual fee, including offers like investment services and retirement planning, etc.
+### Target High-potential Customer Segments
+As per the findings from above, the top 3 target segments were identified for the new card launch:
+#### "High Value":
+- Ideal for **Ultra Premium cards** with exciting offers and cashback points across all categories and premium banking services.
+- 25-34 and 35-45, i.e, 25-45 age group(675 customers), are the primary target audience. Therefore, focus more on offers related to that age group.
+#### "Prime Minimalists" 
+- Ideal for **Premium cards** with zero 1st time or annual fee, including offers like investment services and retirement planning, etc.
 #### 'Emerging'
-- Ideal for cashback cards with offers on Entertainment, Apparel, and others.
-- For **Risky** customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself.
+- Ideal for **Cashback cards** with offers on Entertainment, Apparel, and others.
+- For **Risky** customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself. For **"Other"** categories, they are not currently in focus for new cards, but they should be monitored for future actions.
 - 
 
