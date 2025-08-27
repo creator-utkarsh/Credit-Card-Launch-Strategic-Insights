@@ -27,7 +27,7 @@ This project analyzes customer demographics and spending behavior for a leading 
 - Occupations: Salaried IT Employees, Salaried Other Employees,	Business Owners, Freelancers,	Government Employees
 -	Genders: Male, Female
 -	Marital Status: Married, Single
-### [:european_castle:Home](#table-of-contents)
+### [:european_castle:](#table-of-contents)
 ### Customer Spend Data - fact_spends
 -	Total Records: 864,000 (6 months × 9 categories × 4,000 customers × 4 payment types)
 -	Total Unique Customers: ✅ 4,000
