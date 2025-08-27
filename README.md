@@ -2,8 +2,12 @@
 ## Table of Contents:
 - [Summary](#summary)
 - [Business Objectives](#business-objectives)
-- [EDA Summary](#exploratory-data-analysis-(eda)-summary)
-- 
+- [EDA Summary](#exploratory-data-analysis-eda-summary)
+- [Key KPIs Tracked](#key-kpis-tracked)
+- [Customer Demographics](#customer-demographics)
+- [Spending Behaviour](#spending-behaviour)
+- [Customer Segmentation](#customer-segmentation)
+- [Strategic Recommendations](strategic-recommendations)
 ## Summary
 This project analyzes customer demographics and spending behavior for a leading retail bank. The aim is to support the launch of a new line of credit cards. Using customer and transaction data, I identified distinct customer segments and usage patterns. The insights revealed high-potential groups and can be used for targeted strategies to boost adoption and engagement. The project emphasizes a data-driven, customer-centric approach to product design and marketing.
 
@@ -23,7 +27,7 @@ This project analyzes customer demographics and spending behavior for a leading 
 - Occupations: Salaried IT Employees, Salaried Other Employees,	Business Owners, Freelancers,	Government Employees
 -	Genders: Male, Female
 -	Marital Status: Married, Single
-
+### [:european_castle:Home](#table-of-contents)
 ### Customer Spend Data - fact_spends
 -	Total Records: 864,000 (6 months × 9 categories × 4,000 customers × 4 payment types)
 -	Total Unique Customers: ✅ 4,000
@@ -34,7 +38,7 @@ Entertainment, Apparel, Electronics, Food, Groceries, Travel, Bills, Health & We
 -	Payment Types:
 Credit Card, Debit Card, UPI, Net Banking
 
-## Key KPIs Tracked:
+## Key KPIs Tracked
 - Avg Income, Avg Monthly Spend
 - Credit Card Usage % {(Credit card spend ÷ total spend) × 100}
 - Income Utilization % {(Total spend ÷ Total income) × 100}
