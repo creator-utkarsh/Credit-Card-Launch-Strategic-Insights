@@ -146,11 +146,19 @@ Before going to the insights from this page, I would like to note that I have ad
 ## Strategic Recommendations
 ### Target High-potential Customer Segments
 As per the findings from above, the top 3 target segments were identified for the new card launch:
-#### "High Value":
+#### "High Value"
 - Ideal for **Ultra Premium cards** with exciting offers and cashback points across all categories and premium banking services.
-- 25-34 and 35-45, i.e, 25-45 age group(675 customers), are the primary target audience. Therefore, focus more on offers related to that age group.
-#### "Prime Minimalists" 
-- Ideal for **Premium cards** with zero 1st time or annual fee, including offers like investment services and retirement planning, etc.
+- 25-34 and 35-45, i.e, **25-45 age group**, are the primary target audience. Therefore, focus more on offers related to that age group.
+- Mainly concentrated in **Mumbai and Delhi-NCR**. (More marketing focus in these cities) And only 2 occupations, **IT Employees** and **Business Owners**, come under this category.
+- For business owners, they must be given interest-free extra time for repayment, and Airport lounge access.
+- IT Professionals should be given exclusive offers on tech purchases, software subscriptions, online services, up-skilling courses, and travel-related offers.
+- Cashbacks on Utility Bills, Groceries, Electronics.
+
+#### "Prime Minimalists"
+- Ideal for **Premium cards** with zero annual fee, including offers like investment services and retirement planning, etc.
+- 25-34 and 45+ age groups are the primary target, followed by the 35-45 age group. As in the 45+ age group, this segment is the majority, so we should focus more on acquiring more 45+ customers.
+- More marketing focus in Chennai(the highest count of this segment), followed by Hyderabad. The majority of those are Business owners and IT Employees, and a little bit of Government employees.
+- Cashbacks on Mutual funds or SIPs, Groceries, Health & wellness centres and devices. 
 #### 'Emerging'
 - Ideal for **Cashback cards** with offers on Entertainment, Apparel, and others.
 - For **Risky** customers, we should keep them on watch for overspending or utilizing the full limit of the card, restrict the limit of the card, send regular nudges about the usage, and create free credit coach programs for them on the app itself. For **"Other"** categories, they are not currently in focus for new cards, but they should be monitored for future actions.
