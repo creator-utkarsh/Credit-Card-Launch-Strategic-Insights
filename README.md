@@ -1,6 +1,8 @@
 # Mitron Bank: Strategic Insights for Credit Card Launch & Customer Segmentation
 ## Table of Contents:
-- 
+- [Summary](-Summary)
+- [Business Objectives](Business-Objectives)
+- [EDA Summary](Exploratory-Data-Analysis-(EDA)-Summary)
 - 
 ## Summary
 This project analyzes customer demographics and spending behavior for a leading retail bank. The aim is to support the launch of a new line of credit cards. Using customer and transaction data, I identified distinct customer segments and usage patterns. The insights revealed high-potential groups and can be used for targeted strategies to boost adoption and engagement. The project emphasizes a data-driven, customer-centric approach to product design and marketing.
