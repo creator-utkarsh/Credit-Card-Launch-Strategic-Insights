@@ -1,4 +1,5 @@
 # Mitron Bank: Strategic Insights for Credit Card Launch & Customer Segmentation
+## Dashboard link - [Report](https://drive.google.com/file/d/1d0wTrUrfB_Wb_d5t2-c8C1dHZcUlH-uG/view?usp=sharing)
 ## Table of Contents:
 - [Summary](#summary)
 - [Business Objectives](#business-objectives)
